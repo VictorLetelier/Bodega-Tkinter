@@ -1,1 +1,3 @@
 # Bodega-Tkinter
+Este es un proyecto de una bodega que gestiona los productos de una tienda de videojuegos, para su desarrollo se hizo uso del lenguaje Python, el módulo Tkinter para la interfaz, mysql para conectar con la base de datos local y la librería matplotlib para algunas funcionalidades.
+Como es una bodega para una tienda, la función mas importante que tiene son las funciones CRUD, pero además de esto, el programa cuenta con una funcionalidad que permite ver a través de un gráfico, las consolas con mayor cantidad de stock en un intervalo de tiempo determinado por el usuario, el cual puede ser desde meses hasta varios años, o también puede seleccionar si solo quiere ver los envíos de una consola en específico.
